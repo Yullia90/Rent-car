@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { AiOutlineCloseCircle, AiOutlineFullscreen } from 'react-icons/ai';
-import logo from '../../img/logo.png';
+import logo from '../../img/81033.jpg';
 import { useNavigate } from 'react-router-dom';
 import {
   HeaderContainer,

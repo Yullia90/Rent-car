@@ -9,3 +9,7 @@ export const Container = styled.div`
   min-height: 75vh;
   background-color: ${colors.backgroundHeader};
 `;
+
+export const Text = styled.h1`
+  color: white;
+`;
