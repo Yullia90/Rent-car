@@ -1,0 +1,829 @@
+[
+  {
+    "year": 2008,
+    "make": "Buick",
+    "model": "Enclave",
+    "type": "SUV",
+    "img": "https://www.edmunds.com/buick/enclave/2008/review/",
+    "description": "The Buick Enclave is a stylish and spacious SUV known for its comfortable ride and luxurious features.",
+    "fuelConsumption": "10.5",
+    "engineSize": "3.6L V6",
+    "accessories": [
+      "Leather seats",
+      "Panoramic sunroof",
+      "Premium audio system"
+    ],
+    "functionalities": [
+      "Power liftgate",
+      "Remote start",
+      "Blind-spot monitoring"
+    ],
+    "rentalPrice": "40",
+    "rentalCompany": "Luxury Car Rentals",
+    "address": "123 Example Street, Kiev, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit required",
+    "mileage": 5858,
+    "id": "1"
+  },
+  {
+    "year": 2021,
+    "make": "Tesla",
+    "model": "Model 3",
+    "type": "Electric",
+    "img": "https://example.com/images/tesla_model3.jpg",
+    "description": "Сучасний електромобіль з високою ефективністю та інноваційними технологіями.",
+    "fuelConsumption": "0 L/100km (Electric)",
+    "engineSize": "Electric Motor",
+    "accessories": ["Heated seats", "Touchscreen display", "Autopilot"],
+    "functionalities": [
+      "Long range battery",
+      "Fast charging",
+      "Mobile app remote control"
+    ],
+    "rentalPrice": "$60",
+    "rentalCompany": "Eco Drive Rentals",
+    "address": "456 Modern Tech Way, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nSecurity deposit required",
+    "mileage": "12000",
+    "id": "2"
+  },
+  {
+    "year": 2020,
+    "make": "Volvo",
+    "model": "XC90",
+    "type": "Hybrid",
+    "img": "https://example.com/images/volvo_xc90.jpg",
+    "description": "Преміальний гібридний SUV, який поєднує безпеку, комфорт та екологічність.",
+    "fuelConsumption": "2.5 L/100km (Hybrid)",
+    "engineSize": "2.0L 4-Cylinder + Electric Motor",
+    "accessories": [
+      "360° camera system",
+      "Bowers & Wilkins sound system",
+      "Advanced air purification"
+    ],
+    "functionalities": [
+      "Pilot Assist",
+      "Adaptive Cruise Control",
+      "Lane Keeping Aid"
+    ],
+    "rentalPrice": "$80",
+    "rentalCompany": "Premium Auto Hire",
+    "address": "789 Luxury Drive, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 30\nValid driver's license\nCredit card required",
+    "mileage": "8500",
+    "id": "3"
+  },
+  {
+    "year": 2019,
+    "make": "Audi",
+    "model": "A6",
+    "type": "Sedan",
+    "img": "https://example.com/images/audi_a6.jpg",
+    "description": "Елегантний седан з передовими технологіями та вишуканим дизайном.",
+    "fuelConsumption": "7.6 L/100km",
+    "engineSize": "3.0L V6 Turbocharged",
+    "accessories": [
+      "LED headlights",
+      "Heated and ventilated front seats",
+      "MMI Navigation Plus with MMI Touch"
+    ],
+    "functionalities": [
+      "Quattro all-wheel drive",
+      "Audi pre sense basic and front",
+      "Parking system plus with rearview camera"
+    ],
+    "rentalPrice": "$70",
+    "rentalCompany": "Executive Car Rental",
+    "address": "321 Business Park Ave, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 27\nValid driver's license\nInsurance proof required",
+    "mileage": "15000",
+    "id": "4"
+  },
+  {
+    "year": 2022,
+    "make": "Porsche",
+    "model": "718 Cayman",
+    "type": "Sports Car",
+    "img": "https://example.com/images/porsche_718cayman.jpg",
+    "description": "Динамічний спортивний автомобіль з вражаючими характеристиками та неперевершеною керованістю.",
+    "fuelConsumption": "9.0 L/100km",
+    "engineSize": "2.0L Turbocharged H4",
+    "accessories": [
+      "Sports seats",
+      "Porsche Communication Management",
+      "Sport Chrono Package"
+    ],
+    "functionalities": [
+      "Bi-Xenon headlights",
+      "Porsche Active Suspension Management",
+      "Rear wheel drive"
+    ],
+    "rentalPrice": "$120",
+    "rentalCompany": "Thrill Drive Rentals",
+    "address": "500 Speedway Blvd, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 32\nValid driver's license\nHigh performance insurance required",
+    "mileage": "3200",
+    "id": "5"
+  },
+  {
+    "year": 2018,
+    "make": "Subaru",
+    "model": "Forester",
+    "type": "Crossover",
+    "img": "https://example.com/images/subaru_forester.jpg",
+    "description": "Надійний повнопривідний кросовер, ідеальний для пригод у всіх погодних умовах.",
+    "fuelConsumption": "7.4 L/100km",
+    "engineSize": "2.5L Flat-4",
+    "accessories": [
+      "Symmetrical All-Wheel Drive",
+      "Starlink Multimedia",
+      "EyeSight Driver Assist Technology"
+    ],
+    "functionalities": [
+      "LED Steering Responsive Headlights",
+      "X-MODE with Hill Descent Control",
+      "DriverFocus Distraction Mitigation System"
+    ],
+    "rentalPrice": "$55",
+    "rentalCompany": "Adventure Motors",
+    "address": "250 Explorer Road, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nComprehensive insurance included",
+    "mileage": "22000",
+    "id": "6"
+  },
+  {
+    "year": 2021,
+    "make": "Honda",
+    "model": "Civic",
+    "type": "Compact",
+    "img": "https://example.com/images/honda_civic.jpg",
+    "description": "Ефективний та надійний компактний автомобіль, ідеальний для міського використання та довгих поїздок.",
+    "fuelConsumption": "6.3 L/100km",
+    "engineSize": "1.5L Turbocharged I4",
+    "accessories": [
+      "Honda Sensing Suite",
+      "Touchscreen infotainment system",
+      "Heated front seats"
+    ],
+    "functionalities": [
+      "Eco Assist System",
+      "Multi-Angle Rearview Camera",
+      "Apple CarPlay & Android Auto Integration"
+    ],
+    "rentalPrice": "$35",
+    "rentalCompany": "City Wheels",
+    "address": "400 Urban Circle, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 21\nValid driver's license\nFull fuel tank prepayment required",
+    "mileage": "10000",
+    "id": "7"
+  },
+  {
+    "year": 2023,
+    "make": "Mercedes-Benz",
+    "model": "S-Class",
+    "type": "Luxury Sedan",
+    "img": "https://example.com/images/mercedes_sclass.jpg",
+    "description": "Вершина інженерної думки та розкоші, S-Class втілює елегантність та інноваційні технології.",
+    "fuelConsumption": "8.5 L/100km",
+    "engineSize": "3.0L Inline-6 Turbo with Mild Hybrid Drive",
+    "accessories": [
+      "Nappa leather upholstery",
+      "MBUX infotainment system",
+      "Active multicontour front seats with massage"
+    ],
+    "functionalities": [
+      "4MATIC all-wheel drive",
+      "AIRMATIC suspension",
+      "ENERGIZING comfort control"
+    ],
+    "rentalPrice": "$150",
+    "rentalCompany": "Luxury Rides",
+    "address": "100 Prestige Point, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 30\nValid driver's license\nLuxury insurance package required",
+    "mileage": "5000",
+    "id": "8"
+  },
+  {
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Sienna",
+    "type": "Minivan",
+    "img": "https://example.com/images/toyota_sienna.jpg",
+    "description": "Просторий та комфортний, Sienna ідеально підходить для сімейних подорожей з усіма зручностями на борту.",
+    "fuelConsumption": "7.1 L/100km",
+    "engineSize": "3.5L V6",
+    "accessories": [
+      "Dual power sliding doors",
+      "Rear-seat entertainment system",
+      "Tri-zone automatic climate control"
+    ],
+    "functionalities": [
+      "Toyota Safety Sense",
+      "All-wheel drive",
+      "Smart Key System with Push Button Start"
+    ],
+    "rentalPrice": "$65",
+    "rentalCompany": "Family Auto Hire",
+    "address": "404 Family Lane, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nTwo forms of ID required",
+    "mileage": "18000",
+    "id": "9"
+  },
+  {
+    "year": 2021,
+    "make": "Mazda",
+    "model": "CX-5",
+    "type": "Compact Crossover",
+    "img": "https://example.com/images/mazda_cx5.jpg",
+    "description": "Створений для водіїв, CX-5 пропонує відмінне керування та елегантний дизайн.",
+    "fuelConsumption": "7.9 L/100km",
+    "engineSize": "2.5L Inline-4",
+    "accessories": [
+      "Leather-trimmed seats",
+      "Bose 10-speaker audio system",
+      "Mazda Connect infotainment system"
+    ],
+    "functionalities": [
+      "i-Activ AWD",
+      "G-Vectoring Control Plus",
+      "Adaptive front-lighting system"
+    ],
+    "rentalPrice": "$50",
+    "rentalCompany": "Zoom-Zoom Rentals",
+    "address": "808 Joyride Ave, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 23\nValid driver's license\nCredit check required",
+    "mileage": "14000",
+    "id": "10"
+  },
+  {
+    "year": 2019,
+    "make": "Land Rover",
+    "model": "Defender",
+    "type": "SUV",
+    "img": "https://example.com/images/landrover_defender.jpg",
+    "description": "Справжній всюдихід з бездоріжжям, Defender забезпечує неперевершену міцність та здатність до подолання перешкод.",
+    "fuelConsumption": "9.9 L/100km",
+    "engineSize": "2.0L Turbocharged I4",
+    "accessories": [
+      "Terrain Response system",
+      "Durable rubber flooring",
+      "Interactive driver display"
+    ],
+    "functionalities": [
+      "Permanent four-wheel drive",
+      "Electronic air suspension",
+      "Wade Sensing"
+    ],
+    "rentalPrice": "$95",
+    "rentalCompany": "Rover Rentals",
+    "address": "678 Offroad Trail, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 28\nValid driver's license\nOff-road insurance required",
+    "mileage": "25000",
+    "id": "11"
+  },
+  {
+    "year": 2022,
+    "make": "BMW",
+    "model": "4 Series",
+    "type": "Coupe",
+    "img": "https://example.com/images/bmw_4series.jpg",
+    "description": "Спортивне купе з витонченим дизайном та високопродуктивними характеристиками для справжнього задоволення від водіння.",
+    "fuelConsumption": "8.0 L/100km",
+    "engineSize": "3.0L Turbocharged I6",
+    "accessories": [
+      "Leather sport seats",
+      "Digital cockpit",
+      "Harman Kardon surround sound system"
+    ],
+    "functionalities": [
+      "M Sport suspension",
+      "Variable sport steering",
+      "Dynamic Cruise Control"
+    ],
+    "rentalPrice": "$110",
+    "rentalCompany": "Ultimate Drive",
+    "address": "901 Speedster Ave, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 30\nValid driver's license\nPerformance insurance package required",
+    "mileage": "6500",
+    "id": "12"
+  },
+  {
+    "year": 2022,
+    "make": "Chevrolet",
+    "model": "Bolt EV",
+    "type": "Electric Hatchback",
+    "img": "https://example.com/images/chevrolet_boltev.jpg",
+    "description": "Енергоефективний і динамічний, Bolt EV є відмінним вибором для екологічно свідомих водіїв.",
+    "fuelConsumption": "28 kWh/100mi",
+    "engineSize": "Electric",
+    "accessories": [
+      "10.2-inch diagonal color touch-screen",
+      "Regen on Demand steering wheel paddle",
+      "One-pedal driving"
+    ],
+    "functionalities": [
+      "Electronic Precision Shift",
+      "Chevy Safety Assist",
+      "17-inch painted aluminum wheels"
+    ],
+    "rentalPrice": "$45",
+    "rentalCompany": "Eco-Friendly Rides",
+    "address": "52 Greenway Terrace, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 23\nValid driver's license\nProof of insurance required",
+    "mileage": "3000",
+    "id": "13"
+  },
+  {
+    "year": 2021,
+    "make": "Land Rover",
+    "model": "Defender",
+    "type": "SUV",
+    "img": "https://example.com/images/landrover_defender.jpg",
+    "description": "Справжній позашляховик, готовий до будь-яких пригод на найскладніших трасах.",
+    "fuelConsumption": "11.8 L/100km",
+    "engineSize": "2.0L Turbocharged I4",
+    "accessories": [
+      "All-terrain Progress Control",
+      "Terrain Response",
+      "ClearSight interior rear view mirror"
+    ],
+    "functionalities": [
+      "Permanent four-wheel drive",
+      "Twin-speed transfer box",
+      "Configurable Terrain Response"
+    ],
+    "rentalPrice": "$95",
+    "rentalCompany": "Off-Road Adventures",
+    "address": "76 Explorer's Trail, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 28\nValid driver's license\nOff-road insurance required",
+    "mileage": "10000",
+    "id": "14"
+  },
+  {
+    "year": 2019,
+    "make": "Ford",
+    "model": "F-150",
+    "type": "Pickup Truck",
+    "img": "https://example.com/images/ford_f150.jpg",
+    "description": "Міцний та надійний, F-150 готовий до будь-яких завдань, чи то робота, чи активний відпочинок.",
+    "fuelConsumption": "12.1 L/100km",
+    "engineSize": "3.5L EcoBoost V6",
+    "accessories": [
+      "Trailer sway control",
+      "FordPass Connect with WiFi hotspot",
+      "Pre-collision assist with automatic emergency braking"
+    ],
+    "functionalities": [
+      "Selectable drive modes",
+      "4x4 Auto Mode",
+      "Dynamic hitch assist"
+    ],
+    "rentalPrice": "$75",
+    "rentalCompany": "Truck Nation Rentals",
+    "address": "88 Hauler Ave, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 26\nValid driver's license\nProof of employment required",
+    "mileage": "20000",
+    "id": "15"
+  },
+  {
+    "year": 2024,
+    "make": "Tesla",
+    "model": "Model Y",
+    "type": "Electric Crossover",
+    "img": "https://example.com/images/tesla_modely.jpg",
+    "description": "Інноваційний електричний кросовер з просторим салоном та передовими технологіями.",
+    "fuelConsumption": "15.7 kWh/100km",
+    "engineSize": "Electric",
+    "accessories": [
+      "Full Self-Driving capability",
+      "Premium interior with updated display",
+      "Panoramic glass roof"
+    ],
+    "functionalities": [
+      "Long range battery",
+      "Supercharger network access",
+      "Autopilot with advanced safety and convenience features"
+    ],
+    "rentalPrice": "$90",
+    "rentalCompany": "Future Drive Rentals",
+    "address": "303 New Age Blvd, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nCredit card required for security deposit",
+    "mileage": "5000",
+    "id": "16"
+  },
+  {
+    "year": 2021,
+    "make": "Audi",
+    "model": "A3",
+    "type": "Premium Hatchback",
+    "img": "https://example.com/images/audi_a3.jpg",
+    "description": "Компактний та стильний хетчбек з високим рівнем комфорту та водіння.",
+    "fuelConsumption": "5.8 L/100km",
+    "engineSize": "1.4L TFSI",
+    "accessories": [
+      "Leather seats",
+      "MMI navigation plus",
+      "Bang & Olufsen sound system"
+    ],
+    "functionalities": [
+      "LED headlights",
+      "Audi virtual cockpit",
+      "Audi pre sense front"
+    ],
+    "rentalPrice": "$55",
+    "rentalCompany": "Compact Luxury Rentals",
+    "address": "205 Comfort Ct, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 23\nValid driver's license\nFull insurance required",
+    "mileage": "8500",
+    "id": "17"
+  },
+  {
+    "year": 2022,
+    "make": "Lexus",
+    "model": "ES",
+    "type": "Executive Sedan",
+    "img": "https://example.com/images/lexus_es.jpg",
+    "description": "Розкішний седан з вишуканим дизайном та інтуїтивними технологіями.",
+    "fuelConsumption": "6.6 L/100km",
+    "engineSize": "2.5L 4-Cylinder",
+    "accessories": [
+      "Heated and ventilated seats",
+      "Mark Levinson audio system",
+      "Lexus Safety System+ 2.0"
+    ],
+    "functionalities": [
+      "Blind Spot Monitor",
+      "Panoramic View Monitor",
+      "Lexus Enform Remote"
+    ],
+    "rentalPrice": "$70",
+    "rentalCompany": "Executive Choice Rentals",
+    "address": "907 Corporate Way, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 27\nValid driver's license\nPremium insurance package required",
+    "mileage": "7500",
+    "id": "18"
+  },
+  {
+    "year": 2023,
+    "make": "Mazda",
+    "model": "MX-5 Miata",
+    "type": "Sports Roadster",
+    "img": "https://example.com/images/mazda_mx5miata.jpg",
+    "description": "Легендарний спортивний автомобіль, що пропонує чисте задоволення від водіння та відкритий верх.",
+    "fuelConsumption": "6.9 L/100km",
+    "engineSize": "2.0L Inline-4",
+    "accessories": [
+      "Convertible top",
+      "Bose premium audio",
+      "Heated leather seats"
+    ],
+    "functionalities": [
+      "Rear-wheel drive",
+      "LED headlights and taillights",
+      "Advanced keyless entry system"
+    ],
+    "rentalPrice": "$80",
+    "rentalCompany": "Zoom-Zoom Rentals",
+    "address": "101 Highway Lane, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nCredit card for deposit",
+    "mileage": "4200",
+    "id": "19"
+  },
+  {
+    "year": 2024,
+    "make": "Lucid",
+    "model": "Air",
+    "type": "Electric Sedan",
+    "img": "https://example.com/images/lucid_air.jpg",
+    "description": "Розкішний та потужний електричний седан з вражаючою дальністю та прискоренням.",
+    "fuelConsumption": "21 kWh/100km",
+    "engineSize": "Electric",
+    "accessories": [
+      "Ultra-slim LED headlights",
+      "Glass canopy roof",
+      "Executive rear seating"
+    ],
+    "functionalities": [
+      "Long range",
+      "Fast charging capability",
+      "Lucid DreamDrive advanced driver-assistance"
+    ],
+    "rentalPrice": "$120",
+    "rentalCompany": "Future Luxury Rentals",
+    "address": "200 Innovation Drive, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 30\nValid driver's license\nComprehensive insurance required",
+    "mileage": "3000",
+    "id": "20"
+  },
+  {
+    "year": 2022,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "type": "Family Crossover",
+    "img": "https://example.com/images/hyundai_santafe.jpg",
+    "description": "Просторий та комфортабельний кросовер, ідеальний для сімейних поїздок з високим рівнем безпеки.",
+    "fuelConsumption": "8.7 L/100km",
+    "engineSize": "2.4L Inline-4",
+    "accessories": [
+      "Panoramic sunroof",
+      "8-inch touchscreen display",
+      "Rear Occupant Alert"
+    ],
+    "functionalities": [
+      "All-wheel drive",
+      "Smart Cruise Control with Stop & Go",
+      "Safe Exit Assist"
+    ],
+    "rentalPrice": "$65",
+    "rentalCompany": "Family Journey Rentals",
+    "address": "155 Suburban Drive, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nTwo forms of ID required",
+    "mileage": "12000",
+    "id": "21"
+  },
+  {
+    "year": 2022,
+    "make": "Jeep",
+    "model": "Wrangler",
+    "type": "Off-road SUV",
+    "img": "https://example.com/images/jeep_wrangler.jpg",
+    "description": "Ідеальний для виїздів на природу, з неперевершеною прохідністю та стійкістю до всіх видів місцевості.",
+    "fuelConsumption": "10.6 L/100km",
+    "engineSize": "3.6L V6",
+    "accessories": [
+      "Removable roof and doors",
+      "Off-road tires",
+      "Uconnect system with navigation"
+    ],
+    "functionalities": [
+      "4x4 system",
+      "Electronic sway bar disconnect",
+      "Skid plates"
+    ],
+    "rentalPrice": "$85",
+    "rentalCompany": "Adventure 4x4 Rentals",
+    "address": "99 Outdoor Trail, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 27\nValid driver's license\nOff-road driving experience required",
+    "mileage": "9500",
+    "id": "22"
+  },
+  {
+    "year": 2021,
+    "make": "Toyota",
+    "model": "Corolla",
+    "type": "Economy Sedan",
+    "img": "https://example.com/images/toyota_corolla.jpg",
+    "description": "Надійний та економічний седан, знаменитий своєю витривалістю та ефективністю споживання палива.",
+    "fuelConsumption": "6.5 L/100km",
+    "engineSize": "1.8L Inline-4",
+    "accessories": [
+      "LED headlights",
+      "7-inch touchscreen",
+      "Apple CarPlay & Android Auto"
+    ],
+    "functionalities": [
+      "Toyota Safety Sense 2.0",
+      "Heated front seats",
+      "Adaptive front lighting system"
+    ],
+    "rentalPrice": "$40",
+    "rentalCompany": "Cost Saver Rentals",
+    "address": "66 Economical Way, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 22\nValid driver's license\nCredit card for deposit",
+    "mileage": "15000",
+    "id": "23"
+  },
+  {
+    "year": 2023,
+    "make": "Fiat",
+    "model": "500",
+    "type": "Compact City Car",
+    "img": "https://example.com/images/fiat_500.jpg",
+    "description": "Мініатюрний та стильний, Fiat 500 є втіленням міського шарму та маневреності.",
+    "fuelConsumption": "5.1 L/100km",
+    "engineSize": "1.2L Inline-4",
+    "accessories": [
+      "Sunroof",
+      "Rear park assist",
+      "Uconnect 5' radio with Bluetooth"
+    ],
+    "functionalities": [
+      "Start & Stop system",
+      "7 airbags",
+      "LED Daytime Running Lights"
+    ],
+    "rentalPrice": "$30",
+    "rentalCompany": "Urban Drive Rentals",
+    "address": "269 City Center Ave, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 21\nValid driver's license\nProof of residence required",
+    "mileage": "8000",
+    "id": "24"
+  },
+  {
+    "year": 2024,
+    "make": "Audi",
+    "model": "e-tron",
+    "type": "Luxury Electric SUV",
+    "img": "https://example.com/images/audi_etron.jpg",
+    "description": "Повнопривідний електричний SUV, який поєднує інновації, стиль та екологічність.",
+    "fuelConsumption": "22.5 kWh/100km",
+    "engineSize": "Electric",
+    "accessories": [
+      "Virtual exterior mirrors",
+      "Bang & Olufsen sound system",
+      "Matrix LED headlights"
+    ],
+    "functionalities": [
+      "Quattro all-wheel drive",
+      "Fast charging capability",
+      "Audi virtual cockpit plus"
+    ],
+    "rentalPrice": "$110",
+    "rentalCompany": "EcoLux Rentals",
+    "address": "400 Greenway Blvd, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 27\nValid driver's license\nCredit card for deposit",
+    "mileage": "6000",
+    "id": "25"
+  },
+  {
+    "year": 2023,
+    "make": "Porsche",
+    "model": "911 Cabriolet",
+    "type": "Sports Convertible",
+    "img": "https://example.com/images/porsche_911cabriolet.jpg",
+    "description": "Іконічний спортивний автомобіль з відкритим верхом, який забезпечує неперевершені враження від водіння.",
+    "fuelConsumption": "10.3 L/100km",
+    "engineSize": "3.0L Twin-Turbo H6",
+    "accessories": [
+      "Heated multifunction sports steering wheel in leather",
+      "Porsche Communication Management (PCM)",
+      "Adaptive Sport Seats Plus"
+    ],
+    "functionalities": [
+      "Rear-wheel drive",
+      "Porsche Active Suspension Management (PASM)",
+      "Sport Chrono Package"
+    ],
+    "rentalPrice": "$180",
+    "rentalCompany": "Performance Auto Hire",
+    "address": "980 Thrillseeker Ave, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 30\nValid driver's license\nPerformance driving experience required",
+    "mileage": "3000",
+    "id": "26"
+  },
+  {
+    "year": 2022,
+    "make": "Toyota",
+    "model": "Camry Hybrid",
+    "type": "Hybrid Sedan",
+    "img": "https://example.com/images/toyota_camryhybrid.jpg",
+    "description": "Ефективний та просторий гібридний седан, ідеальний для тих, хто шукає комфорт та економію палива.",
+    "fuelConsumption": "4.9 L/100km",
+    "engineSize": "2.5L Hybrid",
+    "accessories": [
+      "Wireless smartphone charging",
+      "Dual zone automatic climate control",
+      "Toyota Safety Sense"
+    ],
+    "functionalities": [
+      "Hybrid Synergy Drive system",
+      "Eco Mode",
+      "Blind Spot Monitor with Rear Cross Traffic Alert"
+    ],
+    "rentalPrice": "$60",
+    "rentalCompany": "Hybrid Harmony Rentals",
+    "address": "750 Eco Drive, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 24\nValid driver's license\nCredit card for deposit",
+    "mileage": "10000",
+    "id": "27"
+  },
+  {
+    "year": 2024,
+    "make": "Nissan",
+    "model": "Leaf",
+    "type": "Electric City Car",
+    "img": "https://example.com/images/nissan_leaf.jpg",
+    "description": "Компактний та ефективний, Nissan Leaf відомий своєю тихою роботою та нульовим викидом, ідеально підходить для міського життя.",
+    "fuelConsumption": "N/A",
+    "engineSize": "Electric",
+    "accessories": [
+      "ProPILOT Assist",
+      "e-Pedal",
+      "Apple CarPlay and Android Auto"
+    ],
+    "functionalities": [
+      "Quick charge port",
+      "Intelligent Around View Monitor",
+      "Zero emissions"
+    ],
+    "rentalPrice": "$50",
+    "rentalCompany": "Green Wheels Rentals",
+    "address": "101 Electric Ave, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 23\nValid driver's license\nCredit card for deposit",
+    "mileage": "8000",
+    "id": "28"
+  },
+  {
+    "year": 2023,
+    "make": "Mercedes-Benz",
+    "model": "GLE",
+    "type": "Luxury SUV",
+    "img": "https://example.com/images/mercedes_gle.jpg",
+    "description": "Mercedes-Benz GLE забезпечує розкіш, комфорт та високотехнологічні рішення, підкреслюючи статус та вишуканість.",
+    "fuelConsumption": "9.4 L/100km",
+    "engineSize": "2.0L Turbocharged I4",
+    "accessories": [
+      "MBUX infotainment system",
+      "AIRMATIC suspension",
+      "Panoramic sunroof"
+    ],
+    "functionalities": [
+      "4MATIC all-wheel drive",
+      "Active Brake Assist",
+      "Heated and ventilated front seats"
+    ],
+    "rentalPrice": "$120",
+    "rentalCompany": "Premium Drive Rentals",
+    "address": "202 Luxury Road, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 30\nValid driver's license\nPremium insurance required",
+    "mileage": "10000",
+    "id": "29"
+  },
+  {
+    "year": 2023,
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "type": "High-Performance Sports Car",
+    "img": "https://example.com/images/chevrolet_corvette.jpg",
+    "description": "Chevrolet Corvette стоїть на чолі американських спортивних автомобілів зі своєю потужністю, стилем та винятковими динамічними характеристиками.",
+    "fuelConsumption": "12.1 L/100km",
+    "engineSize": "6.2L V8",
+    "accessories": [
+      "Head-Up Display",
+      "Performance data recorder",
+      "Bose premium audio system"
+    ],
+    "functionalities": [
+      "Rear-wheel drive",
+      "Magnetic Selective Ride Control",
+      "Launch control"
+    ],
+    "rentalPrice": "$200",
+    "rentalCompany": "Speed Thrills Rentals",
+    "address": "308 Adrenaline Blvd, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 32\nValid driver's license\nExperience with high-performance vehicles required",
+    "mileage": "4000",
+    "id": "30"
+  },
+  {
+    "year": 2020,
+    "make": "Toyota",
+    "model": "Sienna",
+    "type": "Minivan",
+    "img": "https://example.com/images/toyota_sienna.jpg",
+    "description": "Просторий та комфортний, Sienna ідеально підходить для сімейних подорожей з усіма зручностями на борту.",
+    "fuelConsumption": "7.1 L/100km",
+    "engineSize": "3.5L V6",
+    "accessories": [
+      "Dual power sliding doors",
+      "Rear-seat entertainment system",
+      "Tri-zone automatic climate control"
+    ],
+    "functionalities": [
+      "Toyota Safety Sense",
+      "All-wheel drive",
+      "Smart Key System with Push Button Start"
+    ],
+    "rentalPrice": "$65",
+    "rentalCompany": "Family Auto Hire",
+    "address": "404 Family Lane, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 25\nValid driver's license\nTwo forms of ID required",
+    "mileage": "18000",
+    "id": "31"
+  },
+  {
+    "year": 2021,
+    "make": "Mazda",
+    "model": "CX-5",
+    "type": "Compact Crossover",
+    "img": "https://example.com/images/mazda_cx5.jpg",
+    "description": "Створений для водіїв, CX-5 пропонує відмінне керування та елегантний дизайн.",
+    "fuelConsumption": "7.9 L/100km",
+    "engineSize": "2.5L Inline-4",
+    "accessories": [
+      "Leather-trimmed seats",
+      "Bose 10-speaker audio system",
+      "Mazda Connect infotainment system"
+    ],
+    "functionalities": [
+      "i-Activ AWD",
+      "G-Vectoring Control Plus",
+      "Adaptive front-lighting system"
+    ],
+    "rentalPrice": "$50",
+    "rentalCompany": "Zoom-Zoom Rentals",
+    "address": "808 Joyride Ave, Kyiv, Ukraine",
+    "rentalConditions": "Minimum age: 23\nValid driver's license\nCredit check required",
+    "mileage": "14000"
+  }
+]
