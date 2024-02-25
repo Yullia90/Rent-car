@@ -1,10 +1,10 @@
 import React from 'react';
 import { Container, FilteredContainer } from './Favorite.styled';
-import { UseSelector } from 'react-redux';
+import { useSelector } from 'react-redux';
 import { ToastContainer } from 'react-toastify';
 import { useFilter } from '../../utils';
 import { FilteredForm } from 'components/FilteredForm/FilteredForm';
-import { AdvertList } from 'components/AdvertList/AdvertList';
+import { AdvertsList } from 'components/AdvertsList/AdvertsList';
 import { AdvertsItems } from 'components/AdvertsItems/AdvertsItems';
 import { NoResultsFavorites } from 'components/NoResultsFavorites/NoResultsFavorites';
 
@@ -63,4 +63,4 @@ const Favorite = () => {
   );
 };
 
-export default Favorites;
+export default Favorite;

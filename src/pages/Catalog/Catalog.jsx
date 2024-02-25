@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { CatalogContainer, ResultMessage } from "./Catalog.styled";
-import { AdvertList } from "../../components/AdvertList/AdvertList";
+import { AdvertsList } from "../../components/AdvertsList/AdvertsList";
 import { FilteredForm } from "components/FilteredForm/FilteredForm";
 import { getAdverts } from 'redux/adverts/selectors';
 import { fetchAll } from 'redux/adverts/operations';
